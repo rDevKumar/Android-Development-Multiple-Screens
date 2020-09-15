@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- hindi translation for color red -->
+    <string name="hindi_color_red">लाल</string>
+
+    <!-- hindi translation for color mustard yellow -->
+    <string name="hindi_color_yellow">पीला</string>
+
+    <!-- hindi translation for color green -->
+    <string name="hindi_color_green">हरा</string>
+
+    <!-- hindi translation for color brown -->
+    <string name="hindi_color_brown">भूरा</string>
+
+    <!-- hindi translation for color black -->
+    <string name="hindi_color_black">काली</string>
+
+    <!-- hindi translation for color gray -->
+    <string name="hindi_color_gray">धूसर</string>
+
+    <!-- hindi translation for color white -->
+    <string name="hindi_color_white">सफेद</string>
+
+    <!-- hindi translation for father -->
+    <string name="hindi_family_father">पिता जी</string>
+
+    <!-- hindi translation for mother -->
+    <string name="hindi_family_mother">मां</string>
+
+    <!-- hindi translation for son -->
+    <string name="hindi_family_son">बेटा</string>
+
+    <!-- hindi translation for daughter -->
+    <string name="hindi_family_daughter">बेटी</string>
+
+    <!-- hindi translation for older brother -->
+    <string name="hindi_family_older_brother">बड़ा भाई</string>
+
+    <!-- hindi translation for younger brother -->
+    <string name="hindi_family_younger_brother">छोटा भाई</string>
+
+    <!-- hindi translation for older sister -->
+    <string name="hindi_family_older_sister">बड़ी बहन</string>
+
+    <!-- hindi translation for younger sister -->
+    <string name="hindi_family_younger_sister">छोटी बहन</string>
+
+    <!-- hindi translation for grandmother -->
+    <string name="hindi_family_grandmother">दादी मा</string>
+
+    <!-- hindi translation for grandfather -->
+    <string name="hindi_family_grandfather">दादा</string>
+
+    <!-- hindi translation for number one -->
+    <string name="hindi_number_one">एक</string>
+
+    <!-- hindi translation for number two -->
+    <string name="hindi_number_two">दो</string>
+
+    <!-- hindi translation for number three -->
+    <string name="hindi_number_three">तीन</string>
+
+    <!-- hindi translation for number four -->
+    <string name="hindi_number_four">चार</string>
+
+    <!-- hindi translation for number five -->
+    <string name="hindi_number_five">पांच</string>
+
+    <!-- hindi translation for number six -->
+    <string name="hindi_number_six">छह</string>
+
+    <!-- hindi translation for number seven -->
+    <string name="hindi_number_seven">सात</string>
+
+    <!-- hindi translation for number eight -->
+    <string name="hindi_number_eight">आठ</string>
+
+    <!-- hindi translation for number nine -->
+    <string name="hindi_number_nine">नौ</string>
+
+    <!-- hindi translation for number ten -->
+    <string name="hindi_number_ten">दस</string>
+
+    <!-- hindi translation for phrase "Where are you going?" -->
+    <string name="hindi_phrase_where_are_you_going">तुम कहाँ जा रहे हो?</string>
+
+    <!-- hindi translation for phrase "What is your name?" -->
+    <string name="hindi_phrase_what_is_your_name">तुम्हारा नाम क्या हे?</string>
+
+    <!-- hindi translation for phrase "My name is..." -->
+    <string name="hindi_phrase_my_name_is">मेरा नाम है…</string>
+
+    <!-- hindi translation for phrase "How are you feeling?" -->
+    <string name="hindi_phrase_how_are_you_feeling">आप कैसा महसूस कर रहे हैं?</string>
+
+    <!-- hindi translation for phrase "I'm feeling good." -->
+    <string name="hindi_phrase_im_feeling_good">मैं अच्छा महसूस कर रहा हूँ।</string>
+
+    <!-- hindi translation for phrase "Are you coming?" -->
+    <string name="hindi_phrase_are_you_coming">क्या तुम आ रहे हो?</string>
+
+    <!-- hindi translation for phrase "Yes, I'm coming." -->
+    <string name="hindi_phrase_yes_im_coming">हां, मैं आ रहा हूं।</string>
+
+    <!-- hindi translation for phrase "I'm coming." -->
+    <string name="hindi_phrase_im_coming">मैं आ रहा हूं।</string>
+
+    <!-- hindi translation for phrase "Let's go." -->
+    <string name="hindi_phrase_lets_go">चलो चलते हैं।</string>
+
+    <!-- hindi translation for phrase "Come here." -->
+    <string name="hindi_phrase_come_here">यहाँ आओ।</string>
+</resources>
